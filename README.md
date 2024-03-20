@@ -8,6 +8,8 @@
 2. 在 safari 浏览器中输入您公司的 vpn 下载地址
 3. 点击 macos 下载图标，等待下载完成
 
+或者直接在 realease 直接下载安装包
+
 ## 问题二：版本过低导致无法使用
 
 ![版本过低](./images/version-lower.png)
